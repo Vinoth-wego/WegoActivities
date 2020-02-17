@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "8a5ee0c504faa821b6e749c7c73532c4"
+build_time: [1581926226, 158612000]
+inputs:
+  "/Users/vinios/Desktop/WegoActivities/WegoActivities/ViewManager.swift": [1581926046, 449406456]

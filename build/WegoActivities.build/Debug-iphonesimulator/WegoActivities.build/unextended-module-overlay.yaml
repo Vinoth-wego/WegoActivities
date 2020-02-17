@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/vinios/Library/Developer/Xcode/DerivedData/WegoActivities-duaivemdxxvoxpcpldiichowxcxn/Build/Products/Debug-iphonesimulator/WegoActivities.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/vinios/Desktop/WegoActivities/build/WegoActivities.build/Debug-iphonesimulator/WegoActivities.build/unextended-module.modulemap",
+    }]
+  }]
+}

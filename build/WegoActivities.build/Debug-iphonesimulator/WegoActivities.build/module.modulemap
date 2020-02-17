@@ -1,0 +1,11 @@
+framework module WegoActivities {
+  umbrella header "WegoActivities.h"
+
+  export *
+  module * { export * }
+}
+
+module WegoActivities.Swift {
+    header "WegoActivities-Swift.h"
+    requires objc
+}

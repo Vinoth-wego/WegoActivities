@@ -1,0 +1,10 @@
+framework module WegoActivities {
+  umbrella header "WegoActivities.h"
+
+  export *
+  module * { export * }
+}
+
+module WegoActivities.__Swift {
+    exclude header "WegoActivities-Swift.h"
+}
